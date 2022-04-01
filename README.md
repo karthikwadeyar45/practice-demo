@@ -1,7 +1,11 @@
-#Practise
+# Practise
 
 Some Desciption!
 
-##Subheader
+## Subheader
 
 Some text
+
+## Local  Development
+
+1. Open index.html in your browser
